@@ -1,4 +1,4 @@
-<h1 align="center">Love2Help - Bring happiness to people through your help!</h1>
+<h1 align="center">Portfolio API - Search for repositories </h1>
 
 <p align="center">
   <a href="#-about">💻 About </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
